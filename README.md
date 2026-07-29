@@ -27,4 +27,33 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 | Sysmon | Endpoint Monitoring |
 | PowerShell | Administrative Logging |
 
+## Data Sources
+
+| Log Source | Status |
+|------------|--------|
+| Security | ✅ |
+| System | ✅ |
+| Application | ✅ |
+| Sysmon | ✅ |
+| PowerShell | ✅ |
+| Linux Journal | ✅ |
+
+## Project Progress
+
+| Task | Status |
+|------|--------|
+| Install Splunk Enterprise | ✅ |
+| Install Universal Forwarder | ✅ |
+| Configure Windows Logs | ✅ |
+| Configure Sysmon | ✅ |
+| Configure PowerShell Logs | ✅ |
+| Configure Linux Logs | ✅ |
+| Attack Simulation | ⏳ |
+| Detection Rules | ⏳ |
+| Dashboards | ⏳ |
+
+## Screenshots
+##Splunk installed and it's home page
+
+
 
