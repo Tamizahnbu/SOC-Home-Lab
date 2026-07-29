@@ -36,7 +36,6 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 | Application | ✅ |
 | Sysmon | ✅ |
 | PowerShell | ✅ |
-| Linux Journal | ✅ |
 
 ## Project Progress
 
