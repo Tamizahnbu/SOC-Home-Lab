@@ -64,7 +64,7 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 ##Sysmon installed and running 
 ![Sysmon in WindowsVM](Screenshot-05-sysmon-running.png)
 ##Log Sources in Splunk EnterPrises
-![Log Sources]()
+![Log Sources](Screenshot-06-Log-sources.png)
 
 
 
