@@ -55,6 +55,8 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 ## Screenshots
 ##Splunk installed and it's home page
 ![Splunk](Screenshot-01-Splunk-Enterprise-HomePage.png)
+##Windows in Virtual Machine
+![Windows VM](Screenshot-02-Windows-VM.png)
 
 
 
