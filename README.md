@@ -14,5 +14,6 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 - PowerShell Logging
 
 ## Lab Architecture
+![Architecture](architecture_lab-diagram.png)
 
 
