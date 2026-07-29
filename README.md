@@ -54,7 +54,7 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 
 ## Screenshots
 ##Splunk installed and it's home page
-![Splunk](Screenshots-01-Splunk-Enterprise-Homepage.png)
+![Splunk](Screenshots-01-Splunk-Enterprise-HomePage.png)
 
 
 
