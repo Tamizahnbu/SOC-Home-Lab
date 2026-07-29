@@ -61,6 +61,10 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 ![Kali Linux VM](Screenshot-03-KaliLinux-VM.png)
 ##Splunk Forwarder in Windows VM
 ![Windows Forwarder](Screenshot-04-SplunkForwarder_in_Windows_VM.png)
+##Sysmon installed and running 
+![Sysmon in WindowsVM](Screenshot-05-sysmon-running.png)
+##Log Sources in Splunk EnterPrises
+![Log Sources]()
 
 
 
