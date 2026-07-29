@@ -16,4 +16,13 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 ## Lab Architecture
 ![Architecture](architecture_lab-diagram.png)
 
+## Technologies
+     TOOLS                        PURPOSE
+- Splunk Enterprise               SIEM tool
+- Splunk Universal Forwarder      Log Forwarding
+- Windows 10                      Log Source
+- Kali Linux                      Attack Simulation
+- Sysmon                          Endpoint Monitoring
+- PowerShell                      Administrative Logging
+
 
