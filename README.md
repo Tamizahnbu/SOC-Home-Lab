@@ -58,7 +58,7 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 ##Windows in Virtual Machine
 ![Windows VM](Screenshot-02-Windows-VM.png)
 ##Kali Linux in VM
-![Kali Linux VM](Screenshot-03-Kali)
+![Kali Linux VM](Screenshot-03-KaliLinux-VM.png)
 ##Splunk Forwarder in Windows VM
 ![Windows Forwarder](Screenshot-04-SplunkForwarderin WindowsVM.png)
 
