@@ -65,6 +65,25 @@ The goal is to practice SOC Analyst Level 1 skills such as:
 ##Log Sources in Splunk EnterPrises
 ![Log Sources](Screenshot-06-Log-sources.png)
 
+##Current Version
+Current Version
+
+  Log Collection
+
+  Windows Logs
+
+  Linux Logs
+
+  Sysmon
+
+  PowerShell
+
+  Attack Simulation
+
+  Detection Engineering
+
+  Dashboards
+
 
 
 
