@@ -84,6 +84,13 @@ Current Version
 
   Dashboards
 
+  ##input.conf 
+  Input file is used to configure the windows event, sysmon and powershell logs and forward it to the Splunk enterprise through Splunk forwarder.
+
+  ##Output.conf
+  Output is used to configure forward logs to this ip and that ip system have a splunk enterprise
+  
+
 
 
 
